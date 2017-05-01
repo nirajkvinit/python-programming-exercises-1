@@ -1,3 +1,5 @@
+# Note: I was testing Pythons time-module here also..
+
 import password, time
 
 running = 1
