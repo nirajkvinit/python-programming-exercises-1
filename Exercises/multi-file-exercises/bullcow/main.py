@@ -5,7 +5,8 @@ answer = 0
 guesses = 0
 
 print("\nWelcome to the Cows and Bulls game!\n")
-print("\n%d\n" % s_number)
+# Uncomment next line for debugging 
+# print("\n%d\n" % s_number)
 
 
 while answer != s_number:
@@ -24,4 +25,3 @@ while answer != s_number:
         continue
     else:
         print("\nCongratulations! Guess number %d was the right one." % guesses)
-
