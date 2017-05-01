@@ -1,1 +1,1 @@
-Exercises can be found in: http://www.practicepython.org/
+Exercises can be found at: http://www.practicepython.org/
