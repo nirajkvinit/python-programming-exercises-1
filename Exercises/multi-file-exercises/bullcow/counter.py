@@ -22,8 +22,3 @@ def cows_and_bulls(a, b):
 
 
     return cows, bulls
-
-
-
-
-print(cows_and_bulls(1523, 2531))
